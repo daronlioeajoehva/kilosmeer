@@ -1,0 +1,161 @@
+.openingspaginabody {
+  width: 375px;
+  background-image: url(fotos/voorscherm-01.jpg);
+  background-size: 384px;
+  background-repeat: no-repeat;
+}
+
+.openingspaginabody h1 {
+  text-align: center;
+  font-size: 0.75em;
+  margin-top: 47em;
+  color: #413f55;
+}
+
+.openingspaginabody a {
+  display: flex;
+  justify-content: center;
+  color: #000010;
+  font-size: 1.5em;
+  margin-top: 1em;
+}
+
+header ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  align-items: center;
+  padding: 0em -5em 0em 2em;
+  margin-right: -13em;
+  margin-top: 3em;
+  margin-bottom: -1em;
+}
+
+header a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1.5em;
+}
+
+header img {
+  display: block;
+  height: 12em;
+  width: auto;
+}
+
+.wiebenikbody {
+  background-color: #161325;
+}
+
+.materialenbody {
+  background-color: #161325;
+}
+
+.samenbody {
+  background-color: #161325;
+}
+
+.wiebenik1 {
+  clear: both;
+  border-style: solid;
+  border-radius: 1em;
+  border-color: #d6d8ed;
+  background-color: #d6d8ed;
+  align-items: center;
+  margin-top: 2em;
+  margin-left: 2em;
+  display: flex;
+  width: 35em;
+  margin-bottom: 7em;
+}
+
+.wiebenik2 {
+  background-color: #413f55;
+}
+
+.hartjefoto {
+  display: block;
+  height: 20em;
+  width: auto;
+  margin-left: 8em;
+  margin-top: 4em;
+  margin-bottom: 5em;
+}
+
+.handjefoto {
+  display: block;
+  height: 20em;
+  width: auto;
+  margin-left: 10em;
+  margin-bottom: 5em;
+}
+
+.knopenfoto {
+  display: block;
+  height: 20em;
+  width: auto;
+  margin-left: 9em;
+  margin-bottom: 5em;
+}
+
+.knopenfoto1 {
+  height: 14em;
+  width: auto;
+  margin-left: 4em;
+}
+
+.wiebenikbody h1 {
+  margin-left: 2em;
+  color: #d6d8ed;
+}
+
+.wiebenik2 {
+  text-align: center;
+  margin-right: -18em;
+  margin-left: -2em;
+  padding: 4em;
+  margin-bottom: 7em;
+}
+
+html h2 {
+  color: #d6d8ed;
+}
+
+html h1 {
+  color: #d6d8ed;
+}
+
+.wiebenik2 p {
+  color: #d6d8ed;
+}
+
+.h1samen {
+  text-align: left;
+  margin-left: 1em;
+}
+
+.naaldfoto {
+  display: block;
+  height: 18em;
+  width: auto;
+  margin-left: 0em;
+}
+
+.wiebenik1 p {
+  margin-left: 2em;
+}
+
+.broekjefoto {
+  display: block;
+  height: 18em;
+  width: auto;
+  margin-left: 0em;
+}
+
+.h2verschuiven {
+  margin-left: 2em;
+}
+
+.ppadding {
+  padding: 10em;
+}
